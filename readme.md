@@ -4,6 +4,8 @@ This is simple fighting game created with HTML5 canvas and JavaScript. It has th
 * `Basic` - with one active and on inactive player.
 * `Multiplayer` - with two active players on one computer.
 * `Network` - with two active players, playing over the network.
+* 
+* `Collaboration with Joshie` - with two active players, playing over the network.
 
 Each mode can be easily chosen by picking a `gameType` when specifying the game options.
 
